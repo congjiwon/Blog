@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "hi",
+      "body": "jiwon",
+      "id": 1
+    },
+    {
+      "title": "두번째",
+      "body": "test",
+      "id": 2
+    }
+  ]
+}
